@@ -36,5 +36,12 @@ So the average is ( 7 + 2 )/2 = 4.5
 If you giveinvalid data (i.e. negative age, person who born before the witch took control) the program should return -1
 
 ###
+How to run :
+ - change directory to main directory
+ - open terminal and run "go run main.go"
+ - input all requirement
+ - view the result
+
+###
 Source code
 https://github.com/tom2662/witchtestgo.github.io
